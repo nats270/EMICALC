@@ -3,7 +3,7 @@ import 'dart:math';
 
 void main() => runApp(
     MaterialApp(
-        title: 'EMI Calc',
+        title: 'EMI Calculator',
         theme: ThemeData(
           primaryColor: Colors.yellow,
           //accentColor: Colors.yellow,
